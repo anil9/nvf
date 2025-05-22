@@ -1,0 +1,5 @@
+{
+  imports = [
+    ./nvim-parinfer.nix
+  ];
+}

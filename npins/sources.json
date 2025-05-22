@@ -1868,6 +1868,19 @@
       "url": "https://github.com/rcarriga/nvim-notify/archive/b5825cf9ee881dd8e43309c93374ed5b87b7a896.tar.gz",
       "hash": "13qlkncpmjvmkpcx5sv366i7scsh90wjvcqy8qlv31ccmgq511wv"
     },
+    "nvim-parinfer": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "gpanders",
+        "repo": "nvim-parinfer"
+      },
+      "branch": "master",
+      "submodules": false,
+      "revision": "5ca09287ab3f4144f78ff7977fabc27466f71044",
+      "url": "https://github.com/gpanders/nvim-parinfer/archive/5ca09287ab3f4144f78ff7977fabc27466f71044.tar.gz",
+      "hash": "0qci774sf7kxsq1a77nmis4zgjggf89w0j5ibzdbrw11cyv0nb3n"
+    },
     "nvim-scrollbar": {
       "type": "Git",
       "repository": {
